@@ -246,7 +246,8 @@ footer .copyright {
   background: url(img/unplugged-retreat.jpg);
   background-size: cover;
   background-position: center;
-  min-height: 500px;
+  height: 100%;
+  width: 100%;
   display: flex;
   justify-content: center;
   flex-flow: row wrap;
