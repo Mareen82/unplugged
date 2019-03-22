@@ -295,7 +295,7 @@ input[type=button] {
 /* Features */
 
 .features {
-  background: url('img/unplugged-retreat-features.jpg');
+  background: url('../img/unplugged-retreat-features.jpg');
   background-size: cover;
   background-position: center;
   height: 100%;
